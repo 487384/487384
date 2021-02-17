@@ -1,0 +1,1 @@
+Hello there! My name is Timo. I'm a student at [Saxion ACT](https://github.com/SaxionACT), currently following their software development course. I know a bunch of Java, a bit of JavaScript and a tiny bit of Kotlin and C++. If you need to contact me, please send an email over to 487384@student.saxion.nl :)
